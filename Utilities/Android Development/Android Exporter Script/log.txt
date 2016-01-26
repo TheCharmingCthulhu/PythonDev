@@ -1,0 +1,1408 @@
+
+##################################################
+- SVG FOUND -> "ico_profil_date_1.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "ico_profil_info_1.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "ico_profil_msg_1.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "ico_profil_rate_1.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+
+##################################################
+- SVG FOUND -> "icon_Ansatz.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_bartschneiden.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_dauerwelle.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_faerben.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_faerben_brauen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_faerben_wimpern.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_foehnen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_kinderschnitt.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_kinderschnitt2.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_makeup.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_schneiden.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_straehnen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_stylen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_toenen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_waschen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_zupfen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+
+##################################################
+- SVG FOUND -> "icon_Ansatz.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_bartschneiden.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_dauerwelle.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_faerben.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_faerben_brauen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_faerben_wimpern.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_foehnen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+
+##################################################
+- SVG FOUND -> "icon_Ansatz.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_bartschneiden.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_dauerwelle.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_faerben.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_faerben_brauen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_faerben_wimpern.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_foehnen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_kinderschnitt.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_kinderschnitt2.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_makeup.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_schneiden.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_straehnen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_stylen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_toenen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_waschen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_zupfen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+
+##################################################
+- SVG FOUND -> "icon_Ansatz.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_bartschneiden.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_dauerwelle.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_faerben.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_faerben_brauen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_faerben_wimpern.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_foehnen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_kinderschnitt.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_kinderschnitt2.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_makeup.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_schneiden.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_straehnen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_stylen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_toenen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_waschen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+- SVG FOUND -> "icon_zupfen.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+
+##################################################
+- SVG FOUND -> "ic_search_black_.w36.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 36
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 54.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 108
+##################################################
+
+##################################################
+- SVG FOUND -> "ic_search_black_.w24.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 24
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 36.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 48
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+##################################################
+
+##################################################
+- SVG FOUND -> "ic_search_black.w24.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 24
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 36.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 48
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+##################################################
+
+##################################################
+- SVG FOUND -> "ic_search_black.w24.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 24
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 36.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 48
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+##################################################
+
+##################################################
+- SVG FOUND -> "ic_search_black.w24.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 24
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 36.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 48
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+##################################################
+
+##################################################
+- SVG FOUND -> "ico_location..w24.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 24
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 36.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 48
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+##################################################
+
+##################################################
+- SVG FOUND -> "ico_location..w24.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 24
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 36.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 48
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+##################################################
+
+##################################################
+- SVG FOUND -> "ic_person_black.w24.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 24
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 36.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 48
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+##################################################
+
+##################################################
+- SVG FOUND -> "ic_person_black.w24.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 24
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 36.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 48
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+##################################################
+
+##################################################
+- SVG FOUND -> "ic_person_black.w24.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 24
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 36.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 48
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+##################################################
+
+##################################################
+- SVG FOUND -> "ic_person_black.w24.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 24
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 36.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 48
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+##################################################
+
+##################################################
+- SVG FOUND -> "ic_person_black.w24.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 24
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 36.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 48
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+##################################################
+
+##################################################
+- SVG FOUND -> "ic_person_black.w24.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 24
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 36.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 48
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+##################################################
+
+##################################################
+- SVG FOUND -> "ic_person_black.w24.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 24
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 36.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 48
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+##################################################
+
+##################################################
+- SVG FOUND -> "ic_https_black.w24.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 24
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 36.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 48
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+##################################################
+
+##################################################
+- SVG FOUND -> "icon_https_black.w24.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 24
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 36.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 48
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+##################################################
+
+##################################################
+- SVG FOUND -> "icon_ansatz.w96.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 96
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 144.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 192
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 288
+##################################################
+- SVG FOUND -> "icon_bartschneiden.w96.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 96
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 144.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 192
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 288
+##################################################
+- SVG FOUND -> "icon_dauerwelle.w96.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 96
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 144.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 192
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 288
+##################################################
+- SVG FOUND -> "icon_faerben.w96.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 96
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 144.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 192
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 288
+##################################################
+- SVG FOUND -> "icon_faerben_brauen.w96.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 96
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 144.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 192
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 288
+##################################################
+- SVG FOUND -> "icon_faerben_wimpern.w96.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 96
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 144.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 192
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 288
+##################################################
+- SVG FOUND -> "icon_foehnen.w96.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 96
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 144.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 192
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 288
+##################################################
+- SVG FOUND -> "icon_kinderschnitt.w96.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 96
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 144.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 192
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 288
+##################################################
+- SVG FOUND -> "icon_kinderschnitt2.w96.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 96
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 144.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 192
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 288
+##################################################
+- SVG FOUND -> "icon_makeup.w96.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 96
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 144.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 192
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 288
+##################################################
+- SVG FOUND -> "icon_schneiden.w96.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 96
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 144.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 192
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 288
+##################################################
+- SVG FOUND -> "icon_straehnen.w96.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 96
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 144.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 192
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 288
+##################################################
+- SVG FOUND -> "icon_stylen.w96.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 96
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 144.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 192
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 288
+##################################################
+- SVG FOUND -> "icon_toenen.w96.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 96
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 144.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 192
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 288
+##################################################
+- SVG FOUND -> "icon_waschen.w96.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 96
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 144.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 192
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 288
+##################################################
+- SVG FOUND -> "icon_zupfen.w96.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 96
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 144.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 192
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 288
+##################################################
+
+##################################################
+- SVG FOUND -> "ic_keyboard_arrow_right_black.w24.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 24
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 36.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 48
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+##################################################
+
+##################################################
+- SVG FOUND -> "ic_keyboard_arrow_right_black.w36.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 36
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 54.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 108
+##################################################
+
+##################################################
+- SVG FOUND -> "ic_clear_black.w36.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 36
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 54.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 108
+##################################################
+
+##################################################
+- SVG FOUND -> "ic_clear_black.w24.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 24
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 36.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 48
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+##################################################
+
+##################################################
+- SVG FOUND -> "ic_clear_black.w32.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 32
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 48.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 64
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 96
+##################################################
+
+##################################################
+
+##################################################
+
+##################################################
+- SVG FOUND -> "ic_keyboard_arrow_right_black.w36.svg"!"
+- CREATING ANDROID SIZES!
+- BASE SIZE 160dpi 1:1
+- FINAL SIZE: -w 36
+--------------------------------------------------
+- HDPI SIZE 160dpi 1:1,5
+- FINAL SIZE: -w 54.0
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 72
+--------------------------------------------------
+- XHDPI SIZE 160dpi 1:2
+- FINAL SIZE: -w 108
+##################################################
