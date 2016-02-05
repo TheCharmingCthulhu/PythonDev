@@ -1,25 +1,22 @@
-import requests
+import rest
 
 class TBBase(object):
-
     def __init__(self):
         self.scheme = "https://"
         self.baseurl = "www.technobase.fm"
+        self.rest = rest.REST(self.scheme, self.baseurl)
 
     def get_url(self):
-        return "{0}{1}".format(self.scheme, self.baseurl)
+        return self.rest.static_base_url
+
 
 class TBTracklist(TBBase):
-
     def __init__(self):
         super(TBTracklist, self).__init__()
-        self.url = ""
-        self.request = ""
+        self.url = super(TBTracklist, self).get_url()
 
     def get_playlist(self):
-        self.url = "{0}{1}".format(super(TBTracklist, self).get_url(), "/tracklist/")
-        self.request = requests.get(self.url)
-
+        self.rest.get_element('//*[@id="MainContent"]/div[2]/div[3]/div')
 
 
 if __name__ == "__main__":
