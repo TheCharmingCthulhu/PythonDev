@@ -21,9 +21,21 @@ def construct(): # Initialize entities
 
     paddle = entities.Paddle(5)
     paddle.image("images/paddle.png")
-    paddle.move(5, (resolution[1] / 2) - (paddle.rect.height / 2))
-    paddle.tag = "paddle"
+    paddle.move(0, (resolution[1] / 2) - (paddle.rect.height / 2))
+    paddle.tag = "paddle_player"
     ents.append(paddle)
+
+    bot = entities.Bot(5)
+    bot.image("images/paddle.png")
+    bot.move(resolution[0] - bot.rect.width, (resolution[1] / 2) - (bot.rect.height / 2))
+    bot.tag = "paddle_bot"
+    ents.append(bot)
+
+    ball = entities.Ball()
+    ball.image("images/ball.png")
+    ball.move((resolution[0] / 2) - (ball.rect.width / 2), (resolution[1] / 2) - (ball.rect.height / 2))
+    ball.tag = "ball"
+    ents.append(ball)
 
 def foreach_entity(func_name, *args): # apply on all entities
     for ent in ents:
@@ -47,7 +59,7 @@ def event(evt): # event-check entities
     return True
 
 def update(dt): # update entities
-    foreach_entity("update", dt)
+    foreach_entity("update", dt, ents)
     
 def render(screen): # render entities
     foreach_entity("render", screen)

@@ -7,7 +7,7 @@ class Entity():
     def event(self, evt, ents):
         pass
     
-    def update(self, dt):
+    def update(self, dt, ents):
         pass
 
     def render(self, screen):
@@ -36,11 +36,11 @@ class Entity():
         sides = []
     
         if isinstance(target, Entity):
-            if target.rect.bottom + offset > self.rect.top and target.rect.top < self.rect.top: sides.append("T")
-            if target.rect.top - offset < self.rect.bottom and target.rect.bottom > self.rect.bottom: sides.append("B")
-            #if target.rect.right < self.rect.left and target.rect.right > self.rect.left: sides.append("L")
-            #if target.rect.left > self.rect.right and target.rect.left < self.rect.left: sides.append("R")
-
+            if target.rect.collidepoint(self.rect.left - offset, self.rect.top - offset): sides.append("TL")
+            if target.rect.collidepoint(self.rect.right + offset, self.rect.top - offset): sides.append("TR")
+            if target.rect.collidepoint(self.rect.left - offset, self.rect.bottom + offset): sides.append("BL")
+            if target.rect.collidepoint(self.rect.right + offset, self.rect.bottom + offset): sides.append("BR")
+            
         return sides
 
     def collision(self, targets):
