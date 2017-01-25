@@ -13,9 +13,11 @@ class Paddle(interfaces.Entity):
 
         self.speed = speed
 
-    def event(self, evt):
+    def event(self, evt, ents):
         if evt.type == pygame.KEYDOWN:
             if evt.key == pygame.K_UP:
-                self.move(self.rect.x, -self.speed)
+                if "T" not in self.collision(ents):
+                    self.move(0, -self.speed)
             if evt.key == pygame.K_DOWN:
-                self.move(self.rect.x, self.speed)
+                if "B" not in self.collision(ents):
+                    self.move(0, self.speed)
