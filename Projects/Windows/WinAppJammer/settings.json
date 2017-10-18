@@ -1,0 +1,14 @@
+{
+    "TERMINATION_FLAGGED_APPS": [
+        "SearchUI.exe"
+    ], 
+    "ENABLED": false, 
+    "WIN_SYSTEM_APPS_PATH": "C:\\Windows\\SystemApps", 
+    "IGNORED_APPS": [
+        "AccountsControl", 
+        "LockApp", 
+        "ShellExperienceHost", 
+        "ContentDeliveryManager", 
+        "TestDebug"
+    ]
+}
